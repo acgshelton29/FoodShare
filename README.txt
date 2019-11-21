@@ -1,0 +1,1 @@
+FoodShare is a website where users can share recipes in a format similiar to social media.
